@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640904204 source:/home/donimetal/Programacion/programacionEstructurada/Arreglos/main.c
+	<stdio.h>
+	<stdlib.h>
+

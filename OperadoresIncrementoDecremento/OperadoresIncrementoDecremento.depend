@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640891558 source:/home/donimetal/Programacion/programacionEstructurada/OperadoresIncrementoDecremento/main.c
+	<stdio.h>
+	<stdlib.h>
+

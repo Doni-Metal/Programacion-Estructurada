@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640889475 source:/home/donimetal/Programacion/programacionEstructurada/operadoresAritmeticos/main.c
+	<stdio.h>
+	<stdlib.h>
+

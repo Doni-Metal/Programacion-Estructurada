@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641234233 source:/home/donimetal/Programacion/programacionEstructurada/cadenaCaracteres/main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640897057 source:/home/donimetal/Programacion/programacionEstructurada/OperadoresLogicos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

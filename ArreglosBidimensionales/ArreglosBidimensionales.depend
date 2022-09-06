@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640907056 source:/home/donimetal/Programacion/programacionEstructurada/ArreglosBidimensionales/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640825648 source:/home/donimetal/Programacion/programacionEstructurada/miPrimeraVariable/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1640826274 source:/home/donimetal/Programacion/programacionEstructurada/miPrimeraVariable/reto1.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

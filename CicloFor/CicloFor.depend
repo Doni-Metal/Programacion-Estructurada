@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640901072 source:/home/donimetal/Programacion/programacionEstructurada/CicloFor/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641247202 source:/home/donimetal/Programacion/programacionEstructurada/Librerias/main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1641247173 /home/donimetal/Programacion/programacionEstructurada/Librerias/operaciones.h
+
